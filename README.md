@@ -1,3 +1,16 @@
+CREDITS:
+
+Endi Hajdari
+
+Farman Syed
+
+Marivic Tanguin
+
+Youssof Ysmael
+
+
+
+
 # NBA_Draft_Project_1
 
 
