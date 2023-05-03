@@ -2,15 +2,7 @@
 
 CREDITS:
 
-Endi Hajdari
-
-Farman Syed
-
-Marivic Tanguin
-
-Youssouf Ismael
-
-
+Endi Hajdari | Farman Syed | Marivic Tanguin | Youssouf Ismael
 
 
 # NBA_Draft_Project_1
