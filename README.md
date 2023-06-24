@@ -1,4 +1,4 @@
-#### "Uncovering the NBA Draft's Impact: Analyzing draft position and team success to reveal the correlation and evaluate the effectiveness of top 10 draft picks from 1990-2021."
+#### "Uncovering the NBA Draft's Impact: Analyzing draft position and team success to reveal the correlation and evaluate the effectiveness of top 10 draft picks from 1990-2021"
 
 CREDITS:
 
